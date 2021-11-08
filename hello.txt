@@ -1,2 +1,3 @@
 Test Squash 1
 Test Squash 2
+Test Squash 3
